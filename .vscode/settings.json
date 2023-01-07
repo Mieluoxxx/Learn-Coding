@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "*.rmd": "markdown",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "deque": "cpp"
+    }
+}
